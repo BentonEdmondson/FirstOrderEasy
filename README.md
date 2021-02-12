@@ -9,7 +9,7 @@ This repository is a fork of the [First Order Motion Model for Image Animation r
 1. Run the following commands:
     1. `git clone https://github.com/BentonEdmondson/FirstOrderEasy.git`
     1. `cd FirstOrderEasy`
-    1. `git clone https://github.com/1adrianb/face-alignment
+    1. `git clone https://github.com/1adrianb/face-alignment`
     1. `cd face-alignment`
     1. `pip install -r requirements.txt`
     1. `python setup.py install`
